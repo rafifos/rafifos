@@ -1,4 +1,6 @@
-### Hi there 👋
+### Yeehaw 🤠
+
+[![cover](https://i.postimg.cc/HkNzZLBy/dorohedoro-featured.jpg)](https://postimg.cc/3kg2W3M8)
 
 <!--
 **rafifos/rafifos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
