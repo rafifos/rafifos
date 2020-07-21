@@ -1,4 +1,4 @@
-### Yeehaw 🤠
+### [YEEEHAAAAAW!](http://cdn.frustra.org/sounds/sound/vo/core01/space23.mp3?id=300) 🤠
 
 [![Cover](https://i.postimg.cc/5NY65NYG/image.png)](https://postimg.cc/HVmYdmt4)
 
