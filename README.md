@@ -1,11 +1,8 @@
-### [YEEEHAAAAAW!](http://cdn.frustra.org/sounds/sound/vo/core01/space23.mp3?id=300) 🤠
-
 <div align="center">
-  <img alt="Rafael Julio's github stats" align="center" src="https://github-readme-stats.vercel.app/api?username=Rafifos&show_icons=true&text_color=3B4252&title_color=2E3440&icon_color=2E3440&bg_color=ECEFF4" />
+  <img alt="Header" align="center" src="header.svg" />
 
   <br>
-
-  <img src="whatthecommit.svg" alt="Commit Message Generator">
+  <img alt="Rafael Julio's github stats" align="center" src="https://github-readme-stats.vercel.app/api?username=Rafifos&show_icons=true&text_color=3B4252&title_color=2E3440&icon_color=2E3440&bg_color=ECEFF4" />
 </div>
 
 <!--
