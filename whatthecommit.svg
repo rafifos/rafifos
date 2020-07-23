@@ -2,7 +2,7 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<div class="container">
-				<iframe src="http://whatthecommit.com"></iframe>
+				<iframe src="http://whatthecommit.com/index.txt"></iframe>
 			</div>
 		</div>
 	</foreignObject>
