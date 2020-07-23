@@ -1,6 +1,12 @@
 ### [YEEEHAAAAAW!](http://cdn.frustra.org/sounds/sound/vo/core01/space23.mp3?id=300) 🤠
 
-[![Cover](https://i.postimg.cc/5NY65NYG/image.png)](https://postimg.cc/HVmYdmt4)
+<div align="center">
+  <img alt="Rafael Julio's github stats" align="center" src="https://github-readme-stats.vercel.app/api?username=Rafifos&show_icons=true&text_color=3B4252&title_color=2E3440&icon_color=2E3440&bg_color=ECEFF4" />
+
+  <br>
+
+  <img src="whatthecommit.svg" alt="Commit Message Generator">
+</div>
 
 <!--
 **rafifos/rafifos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
