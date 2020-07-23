@@ -1,7 +1,9 @@
-<!-- https://codepen.io/mtsgeneroso/full/mdJRpxX -->
+<!--
+  Based heavily on: https://github.com/Akshay090/svg-banners
+ -->
 <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
-    <div xmlns="https://www.w3.org/1999/xhtml">
+    <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         :root {
           --color-background: #ECEFF4;
@@ -18,9 +20,9 @@
           --color-yellow: #EBCB8B;
           --color-foreground: var(--color-white);
         }
-        
+
         .container {
-          font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
+          font-family: 'Iosevka', monospace;
           display: flex;
           flex-direction: column;
           align-items: center;
@@ -30,12 +32,11 @@
           height: 400px;
           background-color: var(--color-background);
           background-size: 600% 400%;
-          border-radius: 10px;
           color: rgba(255, 255, 255, .75);
           text-align: center;
           font-size: 24px;
         }
-        
+
         .c-rainbow {
           counter-reset: rainbow;
           position: relative;
@@ -45,7 +46,7 @@
           margin: 0;
           line-height: 2px;
         }
-        
+
         .c-rainbow__layer {
           --text-color: var(--color-foreground);
           counter-increment: rainbow;
@@ -55,84 +56,77 @@
           text-shadow: -1px -1px 0 var(--color-black), 1px -1px 0 var(--color-black), -1px 1px 0 var(--color-black), 1px 1px 0 var(--color-black), 4px 4px 0 rgba(0, 0, 0, 0.2);
           animation: rainbow 1.5s ease-in-out infinite;
         }
-        
+
         .c-rainbow__layer:nth-child(1) {
           animation-delay: calc( 1 / var(--delay) * 1s);
           margin-left: 36px;
-          /* z-index: -10; */
+          z-index: -10;
         }
-        
+
         .c-rainbow__layer:nth-child(2) {
           animation-delay: calc( 2 / var(--delay) * 1s);
           margin-left: 30px;
-          /* z-index: -20; */
+          z-index: -20;
         }
-        
+
         .c-rainbow__layer:nth-child(3) {
           animation-delay: calc( 3 / var(--delay) * 1s);
           margin-left: 24px;
-          /* z-index: -30; */
+          z-index: -30;
         }
-        
+
         .c-rainbow__layer:nth-child(4) {
           animation-delay: calc( 4 / var(--delay) * 1s);
           margin-left: 18px;
-          /* z-index: -40; */
+          z-index: -40;
         }
-        
+
         .c-rainbow__layer:nth-child(5) {
           animation-delay: calc( 5 / var(--delay) * 1s);
           margin-left: 12px;
-          /* z-index: -50; */
+          z-index: -50;
         }
-        
+
         .c-rainbow__layer:nth-child(6) {
           animation-delay: calc( 6 / var(--delay) * 1s);
           margin-left: 6px;
-          * z-index: -60;
-          */
+          z-index: -60;
         }
-        
+
         .c-rainbow__layer:nth-child(7) {
           animation-delay: calc( 7 / var(--delay) * 1s);
-          /* margin-left: 1em; */
-          /* z-index: -70; */
+          margin-left: 0;
+          z-index: -70;
         }
-        
-        
-        /* .c-rainbow__layer:not(:first-child) {
-          position: absolute;
-          top: 0;
-        } */
-        
+
         .c-rainbow__layer--white {
           --text-color: var(--color-white);
         }
-        
+
         .c-rainbow__layer--orange {
           --text-color: var(--color-orange);
         }
-        
+
         .c-rainbow__layer--red {
           --text-color: var(--color-red);
         }
-        
+
         .c-rainbow__layer--violet {
           --text-color: var(--color-violet);
         }
-        
+
         .c-rainbow__layer--blue {
           --text-color: var(--color-blue);
         }
-        
+
         .c-rainbow__layer--green {
           --text-color: var(--color-green);
         }
-        
+
         .c-rainbow__layer--yellow {
           --text-color: var(--color-yellow);
         }
-        
+
         @keyframes rainbow {
           0%,
           100% {
@@ -145,13 +139,13 @@
       </style>
       <div class="container">
         <ul class="c-rainbow">
-          <li class="c-rainbow__layer c-rainbow__layer--yellow">RAINBOW</li>
-          <li class="c-rainbow__layer c-rainbow__layer--green">RAINBOW</li>
-          <li class="c-rainbow__layer c-rainbow__layer--blue">RAINBOW</li>
-          <li class="c-rainbow__layer c-rainbow__layer--violet">RAINBOW</li>
-          <li class="c-rainbow__layer c-rainbow__layer--red">RAINBOW</li>
-          <li class="c-rainbow__layer c-rainbow__layer--orange">RAINBOW</li>
-          <li class="c-rainbow__layer c-rainbow__layer--white">RAINBOW</li>
+          <li class="c-rainbow__layer c-rainbow__layer--yellow">Emotional problems.</li>
+          <li class="c-rainbow__layer c-rainbow__layer--green">Emotional problems.</li>
+          <li class="c-rainbow__layer c-rainbow__layer--blue">Emotional problems.</li>
+          <li class="c-rainbow__layer c-rainbow__layer--violet">Emotional problems.</li>
+          <li class="c-rainbow__layer c-rainbow__layer--red">Emotional problems.</li>
+          <li class="c-rainbow__layer c-rainbow__layer--orange">Emotional problems.</li>
+          <li class="c-rainbow__layer c-rainbow__layer--white">Emotional problems.</li>
         </ul>
       </div>
     </div>

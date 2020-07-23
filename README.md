@@ -1,8 +1,9 @@
-<div align="center">
-  <img alt="Header" align="center" src="header.svg" />
+<div align="center" style="background-color: #ECEFF4; width: 100%; height: 100%; border-radius: 10px; border: 1px solid #D8DEE9;">
+  <img alt="Header" src="header.svg" />
 
-  <br>
-  <img alt="Rafael Julio's github stats" align="center" src="https://github-readme-stats.vercel.app/api?username=Rafifos&show_icons=true&text_color=3B4252&title_color=2E3440&icon_color=2E3440&bg_color=ECEFF4" />
+  <br><br>
+
+  <img alt="Rafael Julio's github stats" src="https://github-readme-stats.vercel.app/api?username=Rafifos&show_icons=true&hide_border=true&text_color=3B4252&title_color=2E3440&icon_color=2E3440&bg_color=ECEFF4" />
 </div>
 
 <!--
