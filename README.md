@@ -1,21 +1,17 @@
-<h1 align="center">Hi 👋, I'm Rafael</h1>
-<h3 align="center">A <i>very passionate</i> fullstack developer from Brazil</h3>
+# Hi 👋, I'm Rafael
 
-- 🔭 I’m currently working on [Quero Bolsa](https://querobolsa.com.br/)
+A _very passionate_ fullstack developer from Brazil
 
+- 🔭 I’m currently working at [Quero Educação (We're hiring!)](https://sobre.quero.com)
 - 🌱 I’m currently learning **Data Structures, UX, Terraform, AWS, Kubernetes and other miscellaneous things.**
-
 - 👨‍💻 All of my projects are available at [https://github.com/rafifos](https://github.com/rafifos)
-
 - 💬 Ask me about **Anything related to your Operating System and your development environment**
-
 - 📫 How to reach me **_Unknown error_**
-
 - ⚡ Fun fact **_Did you know that people with guilty consciences are more easily startled by loud noises--[train horn]--_**
 
 -----
 
-<p align="left">
+<p>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
@@ -54,7 +50,13 @@
 </p>
 
 <p align="center">
-  <a href="https://dev.to/rafifos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rafifos" height="30" width="30" /></a>
-  <a href="https://twitter.com/rafif0s" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rafif0s" height="30" width="30" /></a>
-  <a href="https://linkedin.com/in/rafifos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rafifos" height="30" width="30" /></a>
+  <a href="https://dev.to/rafifos" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rafifos" height="30" width="30" />
+  </a>
+  <a href="https://twitter.com/rafif0s" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rafif0s" height="30" width="30" />
+  </a>
+  <a href="https://linkedin.com/in/rafifos" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rafifos" height="30" width="30" />
+  </a>
 </p>
