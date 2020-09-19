@@ -44,9 +44,8 @@ A _very passionate_ fullstack developer from Brazil
 
 -----
 
-<p>
-  &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafifos&count_private=true&show_icons=true&theme=nord" alt="rafifos" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafifos&count_private=true&show_icons=true&theme=nord" alt="rafifos" />
 </p>
 
 <p align="center">
