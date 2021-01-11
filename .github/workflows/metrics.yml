@@ -30,3 +30,4 @@ jobs:
           plugin_lines: yes
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
