@@ -2,8 +2,12 @@
 name: Metrics
 on:
   # Schedule updates
-  schedule: [{cron: "0 * * * *"}]
-  push: {branches: "master"}
+  schedule:
+    - cron: "0 0 * * 0"
+  push:
+    branches: 
+      - "master"
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -21,18 +25,8 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo
           plugin_followup: yes
-          plugin_habits: yes
-          plugin_habits_charts: yes
           plugin_languages: yes
           plugin_languages_skipped: "com.riotgames.League_of_Legends, flyme_device_motorola_ghost, acre_world, rom_build, Bramante, leagueoflinux, basquete, ruby, atdownloader, be-the-hero, data_structures, tap, proffy, exactive"
           plugin_lines: yes
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
-          plugin_projects: yes
-          plugin_projects_limit: 3
-          plugin_projects_repositories: website, dotfiles, ugit
-          plugin_stargazers: yes
-          plugin_stars: yes
-          plugin_stars_limit: 4
-          plugin_topics: yes
-          plugin_topics_mode: "mastered"
