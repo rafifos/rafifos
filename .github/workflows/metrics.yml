@@ -29,11 +29,9 @@ jobs:
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
           plugin_projects: yes
-          plugin_projects: yes
           plugin_projects_limit: 3
           plugin_projects_repositories: website, dotfiles, ugit
           plugin_stargazers: yes
-          plugin_stars: yes
           plugin_stars: yes
           plugin_stars_limit: 4
           plugin_topics: yes
