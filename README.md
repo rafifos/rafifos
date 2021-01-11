@@ -11,7 +11,6 @@ A _very passionate_ fullstack developer from Brazil
 
 -----
 
-
 <p align="center">
   <img alt="GitHub Profile Metrics" src="./github-metrics.svg" />
 </p>
