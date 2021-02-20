@@ -2,8 +2,8 @@
 
 A _very passionate_ fullstack developer from Brazil
 
-- 🔭 I’m currently working at `undefined`
-- 🌱 I’m currently learning **Data Structures, UX, Terraform, AWS, Kubernetes and other miscellaneous things.**
+- 🔭 I’m currently working at [Me Salva!](https://www.mesalva.com/)
+- 🌱 I’m currently learning **Zsh**
 - 👨‍💻 All of my projects are available at [https://github.com/rafifos](https://github.com/rafifos)
 - 💬 Ask me about **Anything related to your Operating System and your development environment**
 - 📫 How to reach me **_Unknown error_**
