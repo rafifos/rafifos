@@ -1,6 +1,6 @@
 # Hi 👋, I'm Rafael
 
-A _very passionate_ fullstack developer from Brazil
+A _very passionate_ front-end web developer from Brazil
 
 - 🔭 I’m currently working at [Me Salva!](https://www.mesalva.com/)
 - 🌱 I’m currently learning **Next.js and how to build Design Systems for the Web**
