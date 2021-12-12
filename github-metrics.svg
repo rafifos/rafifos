@@ -293,14 +293,14 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: 11 Dec 2021, 21:47:50
+Last generated: 12 Dec 2021, 17:29:03
 </div>
 <div class="stdin"><span class="ps1-path">rafifos@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>Rafael Julio</b> registered=6y, uid=1769, gid=2
-  contributed to 52 repositories <b><span style="color:#40c463">#</span><span style="color:#216e39">#</span><span style="color:#ebedf0">#</span><span style="color:#216e39">#</span><span style="color:#216e39">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
+  contributed to 52 repositories <b><span style="color:#40c463">#</span><span style="color:#216e39">#</span><span style="color:#ebedf0">#</span><span style="color:#216e39">#</span><span style="color:#216e39">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span></b>
   followed by <b>49</b> users
 </div>
 <div class="stdin"><span class="ps1-path">rafifos@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
-  <b> 1570</b> commits
+  <b> 1572</b> commits
   <b>    6</b> pull requests reviewed
   <b>   10</b> pull requests opened
   <b>   10</b> issues opened
@@ -326,7 +326,7 @@ dr-x  <b>   25</b>  PULL_REQUESTS
 dr-x         LICENSE
 -r--         └── MIT
 
-<span class="diff">@@ -18.3k +54.2k @@</span>
+<span class="diff">@@ -18.2k +53.9k @@</span>
 </div>
 <div class="stdin"><span class="ps1-path">rafifos@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>C#          </b> [##########          ] 45.89%
 <b>SHADERLAB   </b> [#########           ] 41.14%
@@ -339,20 +339,20 @@ dr-x         LICENSE
 </div>
 <div class="stdin"><span class="ps1-path">rafifos@metrics</span>:<span class="ps1-location">~</span># curl -vI https://rafifos.dev</div><div class="stdout"><b>User-Agent</b>: Google PageSpeed API
 <b>Location</b>: https://rafifos.dev
-<b>X-Performance</b>: 96%
+<b>X-Performance</b>: 100%
 <b>X-Accessibility</b>: 85%
 <b>X-Best-Practices</b>: 100%
 <b>X-SEO</b>: 78%
-<b>&gt; Time to interactive</b>: 0.609s (ok +)
+<b>&gt; Time to interactive</b>: 0.62s (ok +)
 <b>&gt; Speed Index</b>: 0.255s (ok +)
-<b>&gt; Total Blocking Time</b>: 0.055s (ok +)
+<b>&gt; Total Blocking Time</b>: 0.06s (ok +)
 <b>&gt; First Contentful Paint</b>: 0.255s (ok +)
-<b>&gt; Largest Contentful Paint</b>: 0.336s (ok +)
+<b>&gt; Largest Contentful Paint</b>: 0.335s (ok +)
 <b>&gt; Cumulative Layout Shift</b>: 0 (ok +)
 </div>
 
 
-<footer>Connection reset by 51.14.169.81</footer></pre>
+<footer>Connection reset by 127.184.175.158</footer></pre>
 
     </div>
     <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
