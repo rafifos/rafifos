@@ -4,7 +4,7 @@ A _very passionate_ front-end web developer from Brazil
 
 <div align="left">
   <a target="_blank" href="https://app.daily.dev/DailyDevTips">
-    <img alt="Rafael Julio's Dev Card" src="https://github.com/rafifos/rafifos/blob/main/devcard.svg" width="256" align="right" />
+    <img alt="Rafael Julio's Dev Card" src="devcard.svg" width="256" align="right" />
   </a>
 </div>
 
@@ -16,3 +16,7 @@ A _very passionate_ front-end web developer from Brazil
 - 💬 Ask me about **Anything related to your Operating System and your development environment**
 - 📫 How to reach me **_Unknown error_**
 - ⚡ Fun fact **_Did you know that people with guilty consciences are more easily startled by loud noises--[train horn]--_**
+
+
+![GitHub Contribution Snake](github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Contribution Snake (Dark Mode)](github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
