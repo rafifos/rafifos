@@ -12,6 +12,8 @@ jobs:
     timeout-minutes: 10
 
     steps:
+      - uses: actions/checkout@v3
+
       - uses: Platane/snk@v2
         with:
           github_user_name: ${{ github.repository_owner }}
