@@ -10,8 +10,8 @@ A _very passionate_ front-end web developer from Brazil
 
 <br />
 
-- 🔭 I’m currently working at [Me Salva!](https://www.mesalva.com/)
-- 🌱 I’m currently learning **Next.js and how to build Design Systems for the Web**
+- 🔭 I’m currently working at `null`
+- 🌱 I’m currently learning **Systems architecture for front-end applications, design patterns, SOLID, and others**
 - 👨‍💻 All of my projects are available at [https://github.com/rafifos](https://github.com/rafifos)
 - 💬 Ask me about **Anything related to your Operating System and your development environment**
 - 📫 How to reach me **_Unknown error_**
