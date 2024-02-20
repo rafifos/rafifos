@@ -4,7 +4,7 @@ A _very passionate_ front-end web developer from Brazil
 
 <div align="left">
   <a target="_blank" href="https://app.daily.dev/Rafifos">
-    <img alt="Rafael Julio's Dev Card" src="devcard.svg" width="256" align="right" />
+    <img alt="Rafael Julio's Dev Card" src="devcard.png" width="256" align="right" />
   </a>
 </div>
 
