@@ -21,3 +21,6 @@ A _very passionate_ front-end web developer from Brazil
 ![GitHub Contribution Snake (Dark Mode)](github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 [![@rafifos's Holopin board](https://holopin.io/api/user/board?user=rafifos)](https://holopin.io/@rafifos)
+
+```math
+\ce{$\unicode[goombafont; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; opacity: 0.5; background-size: cover; background-repeat: no-repeat; background-image: url('https://github.com/rafifos/rafifos/blob/main/shimeji.jpeg?raw=true');]{x0000}$}
