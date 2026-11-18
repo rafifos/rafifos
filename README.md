@@ -1,6 +1,7 @@
 # Hi! I'm Rafael and
 
-![I'm a Programmer!](https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/IamSeries/IamProgrammer!.png?raw=true)
+
+![I'm a Programmer!](https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/IamSeries/webp/IamProgrammer!.webp?raw=true)
 
 <div align="left">
   <a target="_blank" href="https://app.daily.dev/Rafifos">
